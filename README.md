@@ -60,3 +60,36 @@ The NVIDIA Technology Showcase Website is an ongoing project aimed at creating a
     - Visually Engaging Branding Element
 
 This comprehensive table of contents outlines the key sections and features of the NVIDIA Technology Showcase Website. As the project is still in progress, it reflects my dedication to building a functional and informative platform that highlights NVIDIA's contributions to technology and innovation.
+
+
+## Screenshots of Development (Currently not in the correct order, but will update soon 🙏)
+
+![creating-django-files](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/9e561f38-fdbf-4fcf-85c0-f0be9081d965)
+
+![creating-django-models](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/2bcfccfc-2f3b-4b48-a541-74acd5623ae4)
+
+![setting-up-docker](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/93d6e2a8-1039-4812-acf9-e13ad5f1374e)
+
+![Screenshot 2023-09-15 170839](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/9aa2bef9-0e20-4f1f-a25f-a647fab5a7b5)
+
+![making-migrations](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/0fcc5dd9-a16b-4bad-9c3f-1f14083fe225)
+
+![django-superuser](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/36210a64-55f7-4d59-85a7-5260f1c1f21d)
+
+![django-registering-models](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/cf2abdab-97e7-4e0d-9364-4690d811e74c)
+
+![django-models-in-admin](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/0a313f06-ab80-4e2d-9125-c0ba8984e612)
+
+![django-making-migrations-big-auto-field](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/ef8cd31e-6d91-4c6a-abc5-c571db640258)
+
+![django-making-migrations](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/f687060f-4c52-4d4c-be85-459dfc4bab06)
+
+![django-defined-string-method-for-models-admin-view](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/640c5ca8-ee95-43d0-862b-77db86bc6d83)
+
+![django-defined-string-method-for-models](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/52aeb86e-0d30-4e55-9d1d-4d8bec88af52)
+
+
+
+
+
+
