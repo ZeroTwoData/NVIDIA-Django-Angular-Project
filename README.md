@@ -88,8 +88,13 @@ This comprehensive table of contents outlines the key sections and features of t
 
 ![django-defined-string-method-for-models](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/52aeb86e-0d30-4e55-9d1d-4d8bec88af52)
 
+![django-home-page-html-template-result](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/c5b8702b-fe28-41b2-a7d1-dc81745f8d13)
 
+![django-about-page-html-template-result](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/59cab1be-b88c-4607-bb8f-dcbf00246a5a)
 
+![django-contact-page-html-template-result](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/72cffc15-83e2-489b-83bc-824c6fc130a9)
+
+![django-api-setup-for-models](https://github.com/ZeroTwoData/NVIDIA-Django-Angular-Project/assets/74563990/83a4787f-e635-4cb9-88e1-e550b1770eda)
 
 
 
