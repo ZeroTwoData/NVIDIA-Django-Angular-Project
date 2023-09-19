@@ -5,7 +5,7 @@
 **Project Overview:**
 The NVIDIA Technology Showcase Website is an ongoing project aimed at creating a comprehensive online platform dedicated to showcasing NVIDIA's cutting-edge technologies and products. This project serves as a demonstration of the my proficiency in using the Django framework and my commitment to continuous learning and improvement. 
 
-**Note:** This website is currently under development and serves as a portfolio piece to showcase the developer's skills. It is a testament to their enthusiasm for web development and their desire to enhance their knowledge in this field.
+**Note:** This website is currently under development and serves as a portfolio piece to showcase my skills. It is a testament to my enthusiasm for web development and my desire to enhance my knowledge in this field.
 
 ### Table of Contents
 
